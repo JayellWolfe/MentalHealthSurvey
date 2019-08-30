@@ -30,6 +30,8 @@ column1 = dbc.Col(
             """
         
              2014 survey which measures the occurrence and prevalence of mental health disorders in the Tech workplace. 
+             
+             Looking at treatment, we can see the predictors that may cause an employee to seek mental health treatment.
 
             People who had a family history of mental health disorders were more likely to be affected at work, if they felt that it would be difficult for them to take leave days. 
 
